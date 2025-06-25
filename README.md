@@ -11,10 +11,6 @@
   </div>
 
   <h3 align="center">Sushi Website</h3>
-
-   <div align="center">
-     Build this project step by step with our detailed tutorial on <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> YouTube. Join the JSM family!
-    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -36,8 +32,6 @@
 ## <a name="features">🔋 Features</a>
 
 👉 **CSS Variables**: Utilize CSS variables to maintain a consistent and easily adjustable styling approach throughout the project
-
-👉 **Importing CSS Files**: Import CSS files into others, promoting modularity and organization in styling.
 
 👉 **Flex and Position Properties**: Use of flex and position properties in CSS to create responsive and well-structured layouts.
 
@@ -63,17 +57,17 @@ Follow these steps to set up the project locally on your machine.
 
 Make sure you have the following installed on your machine:
 
-- [Git]()
+- [Git](https://github.com/uday778/Sushiman_CSS_project.git)
 
 **Cloning the Repository**
 
 ```bash
-git clone github-link
+git clone https://github.com/uday778/Sushiman_CSS_project.git
 cd sushiman
 ```
 
 
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
+Open [http://localhost:5500](http://localhost:5500) in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
